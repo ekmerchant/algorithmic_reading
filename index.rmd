@@ -1,0 +1,21 @@
+---
+title: 'STS 205: Algorithmic Reading'
+author: "Professor Emily Klancher Merchant"
+date: "UC Davis"
+output:
+  html_document:
+    theme: paper
+    toc: yes
+    toc_depth: 3
+    toc_float: yes
+---
+### Overview
+**Welcome to STS 205! This is the DIY version of a course originally developed for graduate students at UC Davis by [Emily Merchant](http://emilyklancher.com). Please note that I hold the copyright on all materials, and that they may not be redistributed without my permission. Feel free to [contact me](mailto:ekmerchant@ucdavis.edu) with any questions.**
+
+As more texts become available digitally, computational textual analysis is becoming more common in the humanities and social sciences. While many social scientists have readily added algorithmic reading methods to their computational repertoire, scholars in the humanities have been more cautious. We now have many examples of algorithmic reading being used for empirical research by social scientists or by literary scholars who model their endeavors on the social sciences. We have also seen an outpouring of critical and skeptical takes on algorithmic reading from scholars in the humanities. This course brings together the "yacking" of the humanities and the "hacking" of the social sciences. It is driven by the premise that effectively *using* computational tools to analyze texts requires critical engagement with those tools and that effectively *critiquing* those tools requires getting one's hands dirty by working with them. It therefore takes a hands-on approach grounded in the field of science and technology studies (STS) to critically exploring these tools through active use of them. Using the R programming language, we will explore a variety of methods for analyzing and visualizing texts. We will consider how these modes of analysis can help us pose and explore valuable research question, and we will critically interrogate these approaches and the results they produce. No prior experience necessary.
+
+### Format
+The material in this course is divided up into [eight lessons](lessons.html). For each there is a set of readings, an R notebook, and a video that will walk you through the notebook. Resources are currently available only to UCD affiliates. Please [email me](mailto:ekmerchant@ucdavis.edu) if you would like access but are not affiliated with UCD. 
+
+You can download all of the R files you will need [here](https://ucdavis.box.com/v/sts-205-r-files). If you are new to R, you will need to install [R](https://r-project.org) and [RStudio](https://www.rstudio.com). If you are using a Mac, [this video](https://www.youtube.com/watch?v=EmZqlcKkJMM) will walk you through the installation process. If you do not have much previous experience with R, I recommend that you work through the following [videos](https://www.youtube.com/channel/UCeOVpKuuxX5sdOmGd7P9zzw/videos). These will walk you through sections 2.2 - 2.6 of [Humanities Data in R](https://link.springer.com/book/10.1007%2F978-3-319-20702-5), showing you how to work with R in the command line ([Part 1](https://youtu.be/e2fKTpqsi48)), RStudio console ([Part 2a](https://youtu.be/eMdD9FW1tos)), R scripts (Parts [2b](https://youtu.be/E149gT17nGk) and [3](https://youtu.be/5jrCpa2lRmo)), and R Markdown notebooks (Parts [4a](https://youtu.be/6fFO3za5mHQ), [4b](https://youtu.be/lI7v7iWgcwk), and [4c](https://youtu.be/Ej3wVsp1OqM)).
+

@@ -1,0 +1,20 @@
+---
+title: "Resources"
+output: 
+  html_document:
+    toc: false    
+    theme: paper
+---
+You may find the following resources helpful (some links require you to have a university IP address):
+
+- [Humanities Data in R](https://link.springer.com/book/10.1007%2F978-3-319-20702-5) by Taylor Arnold and Lauren Tilton  
+- [Text Mining with R: A Tidy Approach](https://www.tidytextmining.com/) by Julia Silge and David Robinson  
+- [Text Analysis with R for Students of Literature](https://link.springer.com/book/10.1007%2F978-3-319-03164-4) by Matthew Jockers (access from on campus or while connected by VPN)  
+- [Digital History Methods in R](https://lincolnmullen.com/projects/dh-r2/) by Lincoln Mullen  
+- [The Programming Historian](https://programminghistorian.org/)  
+- [R for Data Science](https://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham  
+- [Advanced R](http://adv-r.had.co.nz/) by Hadley Wickham 
+- [Introduction to Text Analysis: A Coursebook](http://walshbr.com/textanalysiscoursebook/) by Brandon Walsh and Sarah Horowitz  
+- [Six Septembers: Mathematics for the Humanist](http://digitalcommons.unl.edu/zeabook/55/) by Patrick Juola and Stephen Ramsay  
+- [Text Mining for Humanists and Social Scientists in R](https://tm4ss.github.io/docs/index.html) by Andreas Niekler and Gregor Wiedemann
+

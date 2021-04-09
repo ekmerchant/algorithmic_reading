@@ -1,0 +1,14 @@
+name: STS 205
+output_dir: "."
+navbar:
+  title: "STS 205: Algorithmic Reading"
+  left:
+    - text: "Description"
+      href: index.html
+    - text: "Lessons"
+      href: lessons.html
+    - text: "Resources"
+      href: resources.html
+    - text: "Email Prof. M"
+      href: mailto:ekmerchant@ucdavis.edu
+
